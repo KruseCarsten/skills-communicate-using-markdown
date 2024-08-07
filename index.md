@@ -9,3 +9,18 @@
 ## Add an Image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Step3
+
+## Example 1: direct
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+## Example 2: formated
+
+``` javascript
+var myVar = "Hello, world!";
+```
